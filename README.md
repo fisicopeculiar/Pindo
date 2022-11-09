@@ -1,2 +1,2 @@
 # Pindo
-um site peculiar
+um site peculiar.
